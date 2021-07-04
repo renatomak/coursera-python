@@ -1,6 +1,6 @@
 # coursera-python
 <h1 align="center"> 
-	🚧  Projeto 🚀 Em construção...  🚧
+	🚧  Curso em andamento 🚀 ...  🚧
 </h1>
 
 ## Itens obrigatórios:
