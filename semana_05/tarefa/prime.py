@@ -7,10 +7,9 @@ def prime(num):
 # print(prime(9))
 
 
-def find_the_largest_prime_number(num):
+def maior_primo(num):
   for valor in reversed(range(2, num+1)):
     if prime(valor):
       return valor
 
 
-# print(find_the_largest_prime_number(100))
