@@ -1,2 +1,2 @@
-def maximum(a, b):
+def maximo(a, b):
   return a if a > b else b
