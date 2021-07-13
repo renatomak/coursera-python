@@ -1,7 +1,12 @@
 def find_all_multiple(n):
-  return [ multiple for multiple in range(1, n+1) if n % multiple == 0 ]
+  return [ multiple for multiple in range(1, n+1) if n % multiple == 0]
+
+def check_multiple(n, m):
+  list_multiple = find_all_multiple(n)
+  return True if m in list_multiple else False
 
 
+# check_multiple(16, 3)
 
 """ Bem-vindo ao jogo do NIM! Escolha:
 
