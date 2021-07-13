@@ -1,8 +1,7 @@
-def find_multiple(n):
-  list_multiple = [ multiple for multiple in range(1, n+1) if n % multiple == 0 ]
-  print(list_multiple)
+def find_all_multiple(n):
+  return [ multiple for multiple in range(1, n+1) if n % multiple == 0 ]
 
-find_multiple(19)
+
 
 """ Bem-vindo ao jogo do NIM! Escolha:
 
