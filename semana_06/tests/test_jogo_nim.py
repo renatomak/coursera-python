@@ -11,3 +11,9 @@ def test_find_all_multiple_impar():
 
 def test_find_all_multiple_primo():
   assert game.find_all_multiple(19) == [1, 19]
+
+def test_check_multiple_true():
+  assert game.check_multiple(21, 3) == True
+
+def test_check_multiple_false():
+  assert game.check_multiple(21, 2) == False
