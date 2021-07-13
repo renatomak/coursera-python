@@ -1,4 +1,4 @@
-def fizz_buzz(number):
+def fizzbuzz(number):
   is_divisible_by_three = number % 3 == 0
   is_divisible_by_five = number % 5 == 0
 
