@@ -1,7 +1,7 @@
-altura_retangulo = int(input())
-largura_retangulo = int(input())
+altura_retangulo = int(input('digite a largura: '))
+largura_retangulo = int(input('digite a altura: '))
 
-for altura in range(altura_retangulo):
-    for largura in range(largura_retangulo):
+for largura in range(largura_retangulo):
+    for altura in range(altura_retangulo):
         print('#', end='')
     print()
