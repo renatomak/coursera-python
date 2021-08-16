@@ -9,8 +9,8 @@
 - [X] Semana 3 - Condicionais - if...else
 - [X] Semana 4 - Repetição - while
 - [X] Semana 5 - Funções
-- [ ] Semana 6 - Depuração e refatoração
-- [ ] Semana 7 - Repetições Encaixadas
+- [X] Semana 6 - Depuração e refatoração
+- [X] Semana 7 - Repetições Encaixadas
 - [ ] Semana 8 - Listas
 - [ ] Semana 9 - Mais sobre listas
 
